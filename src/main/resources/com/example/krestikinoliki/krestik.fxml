@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="357.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.krestikinoliki.Controller">
+   <children>
+      <Button fx:id="button1" layoutY="56.0" mnemonicParsing="false" onAction="#but1" prefHeight="102.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button4" layoutY="156.0" mnemonicParsing="false" onAction="#but4" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button7" layoutY="256.0" mnemonicParsing="false" onAction="#but7" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button2" layoutX="100.0" layoutY="56.0" mnemonicParsing="false" onAction="#but2" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button5" layoutX="100.0" layoutY="156.0" mnemonicParsing="false" onAction="#but5" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button8" layoutX="100.0" layoutY="256.0" mnemonicParsing="false" onAction="#but8" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button3" layoutX="200.0" layoutY="56.0" mnemonicParsing="false" onAction="#but3" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button6" layoutX="200.0" layoutY="156.0" mnemonicParsing="false" onAction="#but6" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Button fx:id="button9" layoutX="200.0" layoutY="256.0" mnemonicParsing="false" onAction="#but9" prefHeight="100.0" prefWidth="100.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <TextField fx:id="panel" layoutX="76.0" layoutY="14.0" />
+   </children>
+</AnchorPane>
